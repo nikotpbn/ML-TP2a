@@ -1,0 +1,4 @@
+/backup
+/input images
+/confusion matrices
+/raw dataeset
